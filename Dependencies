@@ -1,0 +1,3 @@
+pip install selenium
+Install Chrome WebDriver
+pip install webdriver-manager
